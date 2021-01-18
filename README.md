@@ -1,6 +1,6 @@
 # react-carousel
 
-excerice for Whitespectre
+Exercise for Whitespectre
 
 ## Images
 
@@ -10,7 +10,7 @@ I used [Unsplash](https://unsplash.com/) to generate random images
 
 ``` bash
  yarn
- yarn install
+ yarn start
 ```
 
 ## Online Demo
